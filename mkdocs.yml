@@ -1,0 +1,8 @@
+site_name: Noah Roblox Documentation
+nav:
+    - Roblox Introduction: introduction.md
+    - How To parts: part.md
+    - Scripts: scripts.md
+    - Roblox Obby: obby.md
+theme: readthedocs
+    
