@@ -8,6 +8,7 @@ To be able to change important properties on parts.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/M1mnk4k4zRs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
 1. Click on the model tab
 2. Click on the part
 
