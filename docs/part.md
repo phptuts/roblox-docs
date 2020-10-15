@@ -6,12 +6,14 @@ To be able to change important properties on parts.
 
 ## How to create a part
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M1mnk4k4zRs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 1. Click on the model tab
 2. Click on the part
 
 ## How to create different kinds of parts
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AEkWXjFcFOs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 1. Click on the model tab
 2. Click on the arrow under the word part
@@ -20,6 +22,7 @@ To be able to change important properties on parts.
 
 ## How to rename a part
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VXdsoeqUU14" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 1. Go to the explorer view -> workspace
 2. Right click on the part
@@ -27,6 +30,7 @@ To be able to change important properties on parts.
 
 ## How to move a part
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZbaNKr6aj0g" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 1. Go to the explorer view -> workspace
 2. Select the part
@@ -36,6 +40,7 @@ To be able to change important properties on parts.
 
 ## How to position exactly
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-WkcZYe8aY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 1. Go to the explorer view -> workspace
 2. Select the part
@@ -45,6 +50,8 @@ To be able to change important properties on parts.
 
 
 ## How to change the size a part
+
+
 
 1. Go to the explorer view -> workspace
 2. Select the part
