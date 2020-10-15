@@ -6,6 +6,8 @@ To be able to setup your environment.
 
 ## Setup Environment Setup
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gy8kn7vRMG4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 1. Click on the New + and then click on base plate
 2. Exit out of everything on the left side of your screen
 2. Go to the View Tab
