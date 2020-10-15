@@ -6,7 +6,7 @@ To be able to change important properties on parts.
 
 ## How to create a part
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sm5zU14NRFw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 1. Click on the model tab
 2. Click on the part
@@ -51,13 +51,24 @@ To be able to change important properties on parts.
 
 ## How to change the size a part
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/achSBQ3yfJc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 1. Go to the explorer view -> workspace
 2. Select the part
 3. Open the model tab
 4. Click on the scale tool
 5. Drag the dots to scale the part.
+
+
+## How to size a part exactly
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2GwFCUjsoqM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+1. Go to the explorer view -> workspace
+2. Select the part
+3. Go to the property window and scroll to Size
+4. Click on the triangle next to the Size
+5. Adjust the X, Y, Z.
 
 
 ## How to rotate a part
@@ -69,16 +80,6 @@ To be able to change important properties on parts.
 3. Open the model tab
 4. Click on the rotate tool
 5. Drag the circles around the part to rotate it.
-
-
-## How to size a part exactly
-
-1. Go to the explorer view -> workspace
-2. Select the part
-3. Go to the property window and scroll to Size
-4. Click on the triangle next to the Size
-5. Adjust the X, Y, Z.
-
 
 ## How to rotate a part exactly
 
