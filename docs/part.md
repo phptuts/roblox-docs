@@ -91,6 +91,8 @@ To be able to change important properties on parts.
 
 ## How to Anchor a part
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SLNVRPhESsA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 1. Go to the explorer view -> workspace
 2. Select the part
 3. Go to the property window and scroll Anchored
@@ -98,11 +100,15 @@ To be able to change important properties on parts.
 
 ## How to change a part's color
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AyLltoFtDXc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 1. Go to the model tab
 2. Select the part in the explorer -> workspace
 3. Click on the color button and change the color.
 
 ## How to change a part's material
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4j3PqmxDjA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 1. Go to the model tab
 2. Select the part in the explorer -> workspace
