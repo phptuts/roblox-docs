@@ -6,7 +6,6 @@ To be able to change important properties on parts.
 
 ## How to create a part
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M1mnk4k4zRs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 1. Click on the model tab
@@ -62,6 +61,8 @@ To be able to change important properties on parts.
 
 
 ## How to rotate a part
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M1mnk4k4zRs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 1. Go to the explorer view -> workspace
 2. Select the part
