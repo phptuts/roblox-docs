@@ -5,4 +5,5 @@ nav:
     - Scripts: scripts.md
     - Roblox Obby: obby.md
 theme: readthedocs
-    
+extra_css:
+    - css/style.css

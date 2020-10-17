@@ -6,14 +6,19 @@ To be able to change important properties on parts.
 
 ## How to create a part
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sm5zU14NRFw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<video width="1120" height="630" controls>
+  <source src="https://storage.googleapis.com/noah-education-videos/roblox-videos/parts/how%20to%20create%20a%20part.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 1. Click on the model tab
 2. Click on the part
 
 ## How to create different kinds of parts
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AEkWXjFcFOs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<video width="1120" height="630" controls>
+  <source src="https://storage.googleapis.com/noah-education-videos/roblox-videos/parts/how%20to%20create%20a%20different%20kind%20of%20part.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 1. Click on the model tab
 2. Click on the arrow under the word part
@@ -22,7 +27,10 @@ To be able to change important properties on parts.
 
 ## How to rename a part
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VXdsoeqUU14" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<video width="1120" height="630" controls>
+  <source src="https://storage.googleapis.com/noah-education-videos/roblox-videos/parts/how%20to%20rename%20a%20part.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 1. Go to the explorer view -> workspace
 2. Right click on the part
@@ -30,7 +38,11 @@ To be able to change important properties on parts.
 
 ## How to move a part
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZbaNKr6aj0g" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<video width="1120" height="630" controls>
+  <source src="https://storage.googleapis.com/noah-education-videos/roblox-videos/parts/how%20to%20move%20a%20part.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 1. Go to the explorer view -> workspace
 2. Select the part
@@ -40,7 +52,10 @@ To be able to change important properties on parts.
 
 ## How to position exactly
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-WkcZYe8aY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<video width="1120" height="630" controls>
+  <source src="https://storage.googleapis.com/noah-education-videos/roblox-videos/parts/how%20to%20position%20a%20part%20exactly.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 1. Go to the explorer view -> workspace
 2. Select the part
@@ -51,7 +66,10 @@ To be able to change important properties on parts.
 
 ## How to change the size a part
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/achSBQ3yfJc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<video width="1120" height="630" controls>
+  <source src="https://storage.googleapis.com/noah-education-videos/roblox-videos/parts/how%20to%20change%20the%20size%20of%20a%20part.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 1. Go to the explorer view -> workspace
 2. Select the part
@@ -62,7 +80,11 @@ To be able to change important properties on parts.
 
 ## How to size a part exactly
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2GwFCUjsoqM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<video width="1120" height="630" controls>
+  <source src="https://storage.googleapis.com/noah-education-videos/roblox-videos/parts/how%20to%20size%20a%20part%20exactly.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
 
 1. Go to the explorer view -> workspace
 2. Select the part
@@ -73,7 +95,10 @@ To be able to change important properties on parts.
 
 ## How to rotate a part
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M1mnk4k4zRs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<video width="1120" height="630" controls>
+  <source src="https://storage.googleapis.com/noah-education-videos/roblox-videos/parts/how%20to%20rotate%20a%20part.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 1. Go to the explorer view -> workspace
 2. Select the part
@@ -83,7 +108,11 @@ To be able to change important properties on parts.
 
 ## How to rotate a part exactly
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GhLL7F0TSA4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<video width="1120" height="630" controls>
+  <source src="https://storage.googleapis.com/noah-education-videos/roblox-videos/parts/how%20to%20rotate%20part%20exactly.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
 
 1. Go to the explorer view -> workspace
 2. Select the part
@@ -93,7 +122,10 @@ To be able to change important properties on parts.
 
 ## How to Anchor a part
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SLNVRPhESsA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<video width="1120" height="630" controls>
+  <source src="https://storage.googleapis.com/noah-education-videos/roblox-videos/parts/how%20to%20anchor%20a%20part.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 1. Go to the explorer view -> workspace
 2. Select the part
@@ -102,7 +134,10 @@ To be able to change important properties on parts.
 
 ## How to change a part's color
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AyLltoFtDXc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<video width="1120" height="630" controls>
+  <source src="https://storage.googleapis.com/noah-education-videos/roblox-videos/parts/how%20to%20change%20the%20color%20of%20a%20part.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 1. Go to the model tab
 2. Select the part in the explorer -> workspace
@@ -110,7 +145,10 @@ To be able to change important properties on parts.
 
 ## How to change a part's material
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4j3PqmxDjA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<video width="1120" height="630" controls>
+  <source src="https://storage.googleapis.com/noah-education-videos/roblox-videos/parts/how%20to%20change%20a%20parts%20material.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 1. Go to the model tab
 2. Select the part in the explorer -> workspace

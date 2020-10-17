@@ -6,7 +6,10 @@ To be able to setup your environment.
 
 ## Setup Environment Setup
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gy8kn7vRMG4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<video width="1120" height="630" controls>
+  <source src="https://storage.googleapis.com/noah-education-videos/roblox-videos/introduction/introduction.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 1. Click on the New + and then click on base plate
 2. Exit out of everything on the left side of your screen
