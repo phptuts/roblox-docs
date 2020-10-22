@@ -3,6 +3,7 @@ nav:
     - Roblox Introduction: introduction.md
     - How To parts: part.md
     - Scripts: scripts.md
+    - Variables: variables.md
     - Roblox Obby: obby.md
 theme: readthedocs
 extra_css:
