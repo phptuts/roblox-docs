@@ -5,6 +5,9 @@ nav:
     - Scripts: scripts.md
     - Variables: variables.md
     - Roblox Obby: obby.md
-theme: readthedocs
+theme: 
+    name: readthedocs
+    highlightjs: true
+    hljs_languages: ['lua']
 extra_css:
     - css/style.css
